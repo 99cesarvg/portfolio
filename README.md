@@ -19,6 +19,7 @@ What drives casual riders to become annual members?
 How can digital media aid in this conversion?
 Join me as I showcase the insights gained and my analytical skills honed through this project.
 
+<img src="assets/duplicatecheck.png" alt="Example Image">
 
 https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1
 
