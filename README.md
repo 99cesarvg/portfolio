@@ -31,7 +31,7 @@ I then made more columns because I needed more columns to make an analysis.
 I then exported the table to cvs and uploaded the file to Tableau 
 
 Check here for my finished working dashboard.
-[https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1]
+<https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1>
 
 <img src="assets/dashboard.png" alt="Example Image">
 
