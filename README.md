@@ -28,6 +28,8 @@ Too make sure there were no errors I made sure there were no duplicates in my jo
 I then made more columns because I needed more columns to make an analysis.
 <img src="assets/newcolumns.png" alt="Example Image">
 
+I then exported the table to cvs and uploaded the file to Tableau 
+
 Check here for my finished working dashboard.
 [https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1]
 
