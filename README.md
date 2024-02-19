@@ -22,15 +22,15 @@ Join me as I showcase the insights gained and my analytical skills honed through
 The first thing I did was I merged the data of all tables using UNION ALL. All the data and columns were the same so this went smoothly.
 <img src="assets/merged_data.png" alt="Example Image">
 
-Too make sure there were no errors I made sure there were no duplicates in my joined table using COUNT. 
+I made sure that the merged data didn't have any duplicates using COUNT.
 <img src="assets/duplicatecheck.png" alt="Example Image">
 
-I then made more columns because I needed more columns to make an analysis.
+I made the new colums, "day_of_week, start_hour, month, trip_duration_min, and trip_duration_sec." These were made to make my analysis easier. 
 <img src="assets/newcolumns.png" alt="Example Image">
 
-I then exported the table to cvs and uploaded the file to Tableau 
+I then exported the table to a CSV file and uploaded the file to Tableau 
 
-Check here for my finished working dashboard.
+Find my live dashboard here
 <https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1>
 
 <img src="assets/dashboard.png" alt="Example Image">
