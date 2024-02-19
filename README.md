@@ -19,9 +19,20 @@ What drives casual riders to become annual members?
 How can digital media aid in this conversion?
 Join me as I showcase the insights gained and my analytical skills honed through this project.
 
+The first thing I did was I merged the data of all tables using UNION ALL. All the data and columns were the same so this went smoothly.
+<img src="assets/merged_data.png" alt="Example Image">
+
+Too make sure there were no errors I made sure there were no duplicates in my joined table using COUNT. 
 <img src="assets/duplicatecheck.png" alt="Example Image">
 
+I then made more columns because I needed more columns to make an analysis.
+<img src="assets/newcolumns.png" alt="Example Image">
+
+Check here for my finished working dashboard.
 https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1
+
+
+
 
 Conclusion: Subscribers contribute to a higher total number of rides, indicating that they are more consistent users of the bike rental service.
 Casual riders, on the other hand, contribute significantly to the total ride time, suggesting that while they may not ride as frequently, they tend to have longer individual rides. 
