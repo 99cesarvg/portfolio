@@ -1,6 +1,4 @@
-## Portfolio
-
-# Project 1: How to convert casual riders to subscription based members.(Google Capstone Project)
+# Project 1:(Google Capstone Project) Use SQL and Tableau to analyze data.
 
 Introduction:
 Welcome to my Cyclistic bike-share analysis project—a testament to my growth as a data analyst. I dived into Cyclistic's data to uncover key insights driving its marketing strategies.
@@ -45,3 +43,5 @@ The highest amount of trips occur during the months of June, July, August, and S
 Emphasize the convenience and cost-effectiveness of a subscription for those who ride frequently, potentially incorporating loyalty programs or exclusive perks for subscribers.
 2. There is a peak in riders in the warm months and on weekends. Consider having a summer or weekend subscription. 
 3. Consider offering promotions or trial periods for casual riders to experience the benefits of a subscription without a long-term commitment. This could encourage them to become regular subscribers.
+
+# Project 2: Data Scraping with Python
