@@ -41,5 +41,7 @@ Conclusion: Subscribers contribute to a higher total number of rides, indicating
 Casual riders, on the other hand, contribute significantly to the total ride time, suggesting that while they may not ride as frequently, they tend to have longer individual rides. 
 The highest amount of trips occur during the months of June, July, August, and September, indicating that the warmer weathers attract more users. 
 
-Marketing: Consider creating targeted marketing campaigns that highlight the benefits of membership for longer rides, such as discounted rates for extended durations.
+1. Consider creating targeted marketing campaigns that highlight the benefits of membership for longer rides, such as discounted rates for extended durations.
 Emphasize the convenience and cost-effectiveness of a subscription for those who ride frequently, potentially incorporating loyalty programs or exclusive perks for subscribers.
+2. There is a peak in riders in the warm months and on weekends. Consider having a summer or weekend subscription. 
+3. Consider offering promotions or trial periods for casual riders to experience the benefits of a subscription without a long-term commitment. This could encourage them to become regular subscribers.
