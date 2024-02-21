@@ -45,8 +45,8 @@ Emphasize the convenience and cost-effectiveness of a subscription for those who
 3. Consider offering promotions or trial periods for casual riders to experience the benefits of a subscription without a long-term commitment. This could encourage them to become regular subscribers.
 
 # Project 2: Data Scraping with Python
+In this project, I utilized Python along with various libraries including BeautifulSoup, Requests, Pandas, and Matplotlib to scrape and analyze data from Wikipedia. Specifically, I focused on extracting information about the top international men's football goal scorers by country. Leveraging the power of Jupyter Notebook, I employed web scraping techniques to gather data efficiently. Through the combination of BeautifulSoup for parsing HTML content, Requests for fetching web pages, and Pandas for data manipulation, I was able to extract and organize the desired information. Additionally, I utilized Matplotlib for data visualization, enabling me to create insightful visual representations of the extracted data directly within the notebook.
 
-
-[Jupyter Notebook](project2final.md)
+[Click here to see code and visualizations Jupyter Notebook](project2final.md)
 
 
