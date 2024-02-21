@@ -46,3 +46,7 @@ Emphasize the convenience and cost-effectiveness of a subscription for those who
 
 # Project 2: Data Scraping with Python
 code[code](project2final.md)
+
+code[codehtml](project2finalhtml.html)
+
+code[jupyter](project2final.ipynb)
