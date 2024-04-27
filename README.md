@@ -53,8 +53,8 @@ In this project, I utilized Python libraries like BeautifulSoup, Requests, Panda
 In this project, I meticulously cleaned and processed data to optimize its utility for creating an insightful dashboard. The dataset pertains to sales analysis for a fictitious coffee company, and my objective was to derive meaningful insights to aid strategic decision-making. Some of the tools used: XLOOKUP, Formatting, Pivot Tables, Pivot Charts, Timelines, Slicers
 
 How my data looked like in the start: 
-<img src="assets/beginning.png" alt="Example Image">
-<a href="asset/coffeeOrdersDataNoChanges.xlsx">Download Clear Excel File</a>
+<img src="assets/beginning.PNG" alt="Example Image">
+<a href="assetS/coffeeOrdersDataNoChanges.xlsx">Download Clear Excel File</a>
 
 1. I first used XLOOKUP to fill Customer Name, Email, and Country from a different sheet in the file. 
 Example formula used: =XLOOKUP(C2,customers!$A$1:$A$1001,customers!$B$1:$B$1001,,0) 
@@ -68,7 +68,7 @@ Example formula used: =IF(I2="Rob","Robusta",IF(I2="Exc","Excelsa",IF(I2="Ara","
 5. Built the dashboard with a brown color theme for coffee. 
 
 Finished dashboard: 
-<img src="assets/finishedDashboard.png" alt="Example Image">
+<img src="assets/finishedDashboard.PNG" alt="Example Image">
 <a href="assets/coffeeOrdersData.xlsx" download>Download Final Excel File</a>
 
 
