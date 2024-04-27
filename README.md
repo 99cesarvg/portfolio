@@ -54,7 +54,7 @@ In this project, I meticulously cleaned and processed data to optimize its utili
 
 How my data looked like in the start: 
 <img src="assets/beginning.PNG" alt="Example Image">
-<a href="assetS/coffeeOrdersDataNoChanges.xlsx">Download Clear Excel File</a>
+<a href="assets/coffeeOrdersDataNoChanges.xlsx">Download Clear Excel File. NO CHANGES MADE</a>
 
 1. I first used XLOOKUP to fill Customer Name, Email, and Country from a different sheet in the file. 
 Example formula used: =XLOOKUP(C2,customers!$A$1:$A$1001,customers!$B$1:$B$1001,,0) 
