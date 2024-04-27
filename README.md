@@ -52,7 +52,7 @@ In this project, I utilized Python libraries like BeautifulSoup, Requests, Panda
 # Project 3: Excel Project
 In this project, I meticulously cleaned and processed data to optimize its utility for creating an insightful dashboard. The dataset pertains to sales analysis for a fictitious coffee company, and my objective was to derive meaningful insights to aid strategic decision-making. Some of the tools used: XLOOKUP, Formatting, Pivot Tables, Pivot Charts, Timelines, Slicers
 
-How my data looked like in the start: 
+How my data looked like in the start with no changes: 
 <img src="assets/beginning.PNG" alt="Example Image">
 <a href="assets/coffeeOrdersDataNoChanges.xlsx">Download Clear Excel File. NO CHANGES MADE</a>
 
@@ -62,10 +62,12 @@ Example formula used: =XLOOKUP(C2,customers!$A$1:$A$1001,customers!$B$1:$B$1001,
 Example formula used: =INDEX(products!$A$1:$G$49,MATCH(orders!$D2,products!$A$1:$A$49,0),MATCH(orders!I$1,products!$A$1:$G$1,0))
 3. I then created more columns for data comprehension where I used IF statements to have the 'Coffee Type' and 'Roast Size' columns show their full names rather than it just b 'M' for roast type it would be 'Medium'
 Example formula used: =IF(I2="Rob","Robusta",IF(I2="Exc","Excelsa",IF(I2="Ara","Arabica",IF(I2="Lib", "Liberica",""))))
-4. I then changed the formatting for the date so there is no confusion with NA and EU timedates. I also changed number formatting to USA.  And I checked for duplicates
-5. Created and updated pivot table and pivot chart. 
-6. Insert and format timeline and slicers. 
-5. Built the dashboard with a brown color theme for coffee. 
+4. I then changed the formatting for the date so there is no confusion with NA and EU timedates. I also changed number formatting to USA.  And I checked for duplicates.
+Finished Sheet:
+<img src="assets/finishedsheet.PNG" alt="Example Image">
+6. Created and updated pivot table and pivot chart. 
+7. Insert and format timeline and slicers. 
+8. Built the dashboard with a brown color theme for coffee. 
 
 Finished dashboard: 
 <img src="assets/finishedDashboard.PNG" alt="Example Image">
