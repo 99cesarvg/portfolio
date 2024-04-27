@@ -65,17 +65,19 @@ Example formula used: =IF(I2="Rob","Robusta",IF(I2="Exc","Excelsa",IF(I2="Ara","
 4. I then changed the formatting for the date so there is no confusion with NA and EU timedates. I also changed number formatting to USA.  And I checked for duplicates.
 Finished Sheet:
 <img src="assets/finishedsheet.PNG" alt="Example Image">
-6. Created and updated pivot table and pivot chart. 
-7. Insert and format timeline and slicers. 
-8. Built the dashboard with a brown color theme for coffee. 
+5. Created and updated pivot table and pivot chart. 
+6. Insert and format timeline and slicers. 
+7. Built the dashboard with a brown color theme for coffee. 
 
 Finished dashboard: 
 <img src="assets/finishedDashboard.PNG" alt="Example Image">
 <a href="assets/coffeeOrdersData.xlsx" download>Download Final Excel File</a>
 
+# Project 4: Data Cleaning Using SQL(Microsoft SQL Server Management Studio used)
+In this project, I cleaned. I use
 
-I utilized Excel tools such as XLOOKUP, INDEX, MATCH, IF, Date Formatting, Number Formatting, Duplicate Check, Create Table, Pivot Tables, Pivot Charts, Timeline, slicers, dashboard.
-5. Created a table out of my orders sheet so it would be easier to update data with pivot table and charts. 
+
+
 
  
 
