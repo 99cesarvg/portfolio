@@ -83,6 +83,7 @@ In this project, I perform the following data cleaning tasks:
 5. Altering values
 6. Removing duplicates
 7. Deleting unused columns
+   
 [View Queries Here](QueryDataCleaning.sql)
 
 # Project 5: Data Exploration in SQL
