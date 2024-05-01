@@ -88,6 +88,8 @@ In this project, I perform the following data cleaning tasks:
 # Project 5: Data Exploration in SQL
 In this project, I analyzed a large dataset focusing on COVID-19 death data from 2022. I explored various aspects such as death rates, vaccination statistics, and locations with the highest infection rates. Additionally, I utilized temporary tables, Common Table Expressions (CTEs), and subqueries to enhance data analysis and manipulation.
 
+[View Queries Here](SQLQuery1.sql)
+
 
 
  
