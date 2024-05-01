@@ -75,7 +75,7 @@ Finished dashboard:
 
 # Project 4: Data Cleaning Using SQL(Microsoft SQL Server Management Studio used)
 [Download or View SQL Queries](QueryDataCleaning.sql)
-
+[Click here to see code and visualizations Jupyter Notebook](SQLCleaning.md)
 
 
 
