@@ -74,7 +74,7 @@ Finished dashboard:
 <a href="assets/coffeeOrdersData.xlsx" download>Download Final Excel File</a>
 
 # Project 4: Data Cleaning Using SQL(Microsoft SQL Server Management Studio used)
-In this project, I cleaned. I use
+[Download or View SQL Queries](QueryDataCleaning.sql)
 
 
 
