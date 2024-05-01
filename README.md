@@ -76,13 +76,13 @@ Finished dashboard:
 # Project 4: Data Cleaning Using SQL(Microsoft SQL Server Management Studio used)
 In this project, I perform the following data cleaning tasks:
 
-Converting dates
-Populating null rows
-Organizing data
-Creating new columns for usability
-Altering values
-Removing duplicates
-Deleting unused columns
+1. Converting dates
+2. Populating null rows
+3. Organizing data
+4. Creating new columns for usability
+5. Altering values
+6. Removing duplicates
+7. Deleting unused columns
 [View Queries Here](QueryDataCleaning.sql)
 
 
