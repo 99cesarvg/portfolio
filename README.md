@@ -1,4 +1,4 @@
-# Project 1: Unlocking Insights: A Journey through Data with SQL and Tableau (Google Capstone Project)
+# Project 1: Bike-Share Marketing Analysis 
 
 Introduction:
 Welcome to my Cyclistic bike-share analysis project—a testament to my growth as a data analyst. I dived into Cyclistic's data to uncover key insights driving its marketing strategies.
@@ -44,12 +44,12 @@ Emphasize the convenience and cost-effectiveness of a subscription for those who
 2. There is a peak in riders in the warm months and on weekends. Consider having a summer or weekend subscription. 
 3. Consider offering promotions or trial periods for casual riders to experience the benefits of a subscription without a long-term commitment. This could encourage them to become regular subscribers.
 
-# Project 2: Data Scraping with Python
+# Project 2: Top Men’s Football Goal Scorers Analysis
 In this project, I utilized Python libraries like BeautifulSoup, Requests, Pandas, and Matplotlib to scrape and analyze data from Wikipedia. I focused on extracting information about top international men's football goal scorers by country. Leveraging Jupyter Notebook, I efficiently employed web scraping techniques. Using BeautifulSoup for HTML parsing, Requests for fetching web pages, and Pandas for data manipulation, I organized the extracted information. Matplotlib aided in creating insightful visualizations directly within the notebook.
 
 [Click here to see code and visualizations Jupyter Notebook](project2final.md)
 
-# Project 3: Excel Project
+# Project 3: Coffee Sales Dashboard Development using Excel
 In this project, I meticulously cleaned and processed data to optimize its utility for creating an insightful dashboard. The dataset pertains to sales analysis for a fictitious coffee company, and my objective was to derive meaningful insights to aid strategic decision-making. Some of the tools used: XLOOKUP, Formatting, Pivot Tables, Pivot Charts, Timelines, Slicers
 
 How my data looked like in the start with no changes: 
@@ -73,7 +73,7 @@ Finished dashboard:
 <img src="assets/finishedDashboard.PNG" alt="Example Image">
 <a href="assets/coffeeOrdersData.xlsx" download>Download Final Excel File</a>
 
-# Project 4: Data Cleaning Using SQL(Microsoft SQL Server Management Studio used)
+# Project 4: Nashville Housing Dataset Cleaning Using SQL
 In this project, I perform the following data cleaning tasks:
 
 1. Converting dates
