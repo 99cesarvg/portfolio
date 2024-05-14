@@ -86,7 +86,7 @@ In this project, I perform the following data cleaning tasks:
    
 [View Queries Here](https://github.com/99cesarvg/portfolio/blob/main/QueryDataCleaning.sql)
 
-# Project 5: Data Exploration in SQL
+# Project 5: Analyzing COVID-19 Deaths and Vaccination Impact using SQL
 In this project, I analyzed a large dataset focusing on COVID-19 death data from 2022. I explored various aspects such as death rates, vaccination statistics, and locations with the highest infection rates. Additionally, I utilized temporary tables, Common Table Expressions (CTEs), and subqueries to enhance data analysis and manipulation.
 
 [View Queries Here](https://github.com/99cesarvg/portfolio/blob/main/SQLQuery1.sql)
