@@ -94,7 +94,7 @@ In this project, I analyzed a large dataset focusing on COVID-19 death data from
 I also created a Tableau Public Dashboard using the queries made
 
 [View live dashboard here](https://public.tableau.com/app/profile/cesar.v4729/viz/CovidAnalytics_17134844860940/Dashboard1)
-<img src="assets/dashboardcovid" alt="Example Image">
+<img src="assets/dashboardcovid.png" alt="Example Image">
 
  
 
