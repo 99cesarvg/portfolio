@@ -29,8 +29,8 @@ I made the new colums, "day_of_week, start_hour, month, trip_duration_min, and t
 I then exported the table to a CSV file and uploaded the file to Tableau 
 
 Find my live dashboard here
-<https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1>
 
+[View live dashboard here](https://public.tableau.com/app/profile/cesar.v4729/viz/dashboard1_17068484244590/Dashboard1)
 <img src="assets/dashboard.png" alt="Example Image">
 
 
@@ -93,8 +93,7 @@ In this project, I analyzed a large dataset focusing on COVID-19 death data from
 
 I also created a Tableau Public Dashboard using the queries made
 
-Find my live dashboard here
-[View Queries Here](https://public.tableau.com/app/profile/cesar.v4729/viz/CovidAnalytics_17134844860940/Dashboard1)
+[View live dashboard here](https://public.tableau.com/app/profile/cesar.v4729/viz/CovidAnalytics_17134844860940/Dashboard1)
 
  
 
